@@ -1,8 +1,4 @@
-Here is a **professional, polished, GitHub-ready `README.md`** for your project
-**`webcam-virtual-background`**.
-It includes sections for installation, features, screenshots, and advanced options.
 
----
 
 # 📄 **README.md (copy & paste into your repo)**
 
